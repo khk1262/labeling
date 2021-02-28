@@ -1,0 +1,27 @@
+<annotation>
+    <filename>20210301-004650.jpg</filename>
+    <folder>test</folder>
+    <source>
+        <database>test</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Yakurut</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>144</xmin>
+            <ymin>137</ymin>
+            <xmax>226</xmax>
+            <ymax>384</ymax>
+        </bndbox>
+    </object>
+</annotation>
